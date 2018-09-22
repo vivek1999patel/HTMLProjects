@@ -1,0 +1,98 @@
+table
+{
+	height:600px;
+	width:1250px;
+	background:olive;
+	border:2px darkgreen;
+}
+ul
+{
+	list-style:none;
+	font-size:20px;
+	text-align:left;
+}
+.nav
+{
+	float:left;
+	margin: 10px;
+	margin-left: 120px;
+	
+	
+}
+li.nav:link
+{
+	color:red;
+}
+li.nav:visited
+{
+	color:orange;
+}
+li.nav:hover
+{
+	background:gray;
+}
+li.nav:active
+{
+	color:white;
+}
+.mytext
+{
+	height:50px;
+}
+.color
+{
+	background:#FDF2E9;
+}
+.list
+{
+	list-style:square;
+	color:red;
+	
+}
+p
+{
+	text-align:justify;
+}
+img.vivek
+{
+	height:290px;
+	width:400px;
+	border-radius:200px;
+}
+table.table1
+{
+	height:200px;
+	width:625px;
+	border:2px doted black;
+	background:white;
+	margin:5px;
+}
+table.table2
+{
+	height:200px;
+	width:610px;
+	border:2px doted black;
+	background:white;
+	margin:5px;
+}
+.li1
+{
+	list-style:square;
+	float:left;
+	margin: 10px;
+}
+table.table3
+{
+	height:150px;
+	width:550px;
+	border:2px solid aqua;
+	margin:15px;
+	background:white;
+}
+table.table4
+{
+	width:1200;
+	background-image:url("https://i.ytimg.com/vi/4UvWpjSRrm0/maxresdefault.jpg");
+}
+
+
